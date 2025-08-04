@@ -61,8 +61,9 @@
 ### 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Surendra1341&theme=react-dark" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surendra1341&theme=github-compact&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
+
 
 ---
 
