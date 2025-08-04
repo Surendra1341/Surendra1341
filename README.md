@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Surendra Singh Chouhan</h1>
 <h3 align="center">💻 Java Backend Developer | ⚙️ DSA Enthusiast | 🌱 Spring Boot Learner</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Gif"/>
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -19,7 +23,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/Surendra_Singh_Chouhan/">
-    <img src="https://img.shields.io/badge/LeetCode-%F0%9F%92%BB%20Surendra_Singh_Chouhan-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://leetcard.jacoblin.cool/Surendra_Singh_Chouhan" alt="LeetCode Stats" />
   </a>
 </p>
 
@@ -28,15 +32,16 @@
 ### 🛠️ Tech Stack 
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" title="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="45" title="Hibernate"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" title="IntelliJ IDEA"/>
 </p>
 
 ---
@@ -46,7 +51,17 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Surendra1341&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Surendra1341&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surendra1341&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Surendra1341&theme=react-dark" alt="GitHub Contribution Graph" />
 </p>
 
 ---
