@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building: **Fullstack URL Shortener**
+- 🔭 Currently building: **NoteNester**
 - 📚 Strong in: **Data Structures & Algorithms**
 - 💻 Backend enthusiast, working primarily in **IntelliJ IDEA**
 - 👨‍💻 Active on: [LeetCode](https://leetcode.com/u/Surendra_Singh_Chouhan/)
