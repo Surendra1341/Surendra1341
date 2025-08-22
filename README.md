@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Surendra Singh Chouhan</h1>
 <h3 align="center">💻 Java Backend Developer | ⚙️ DSA Enthusiast | 🌱 Spring Boot Learner</h3>
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Gif"/>
 </p>
-
 
 ---
 
@@ -14,7 +12,7 @@
 public class SurendraProfile {
     private String name = "Surendra Singh Chouhan";
     private String role = "Java Backend Developer";
-    private String[] currentFocus = {"Spring Boot", "Spring Ai", "DSA"};
+    private String[] currentFocus = {"Spring Boot", "Spring AI", "DSA"};
     private String currentProject = "Omninet Core";
     private String workingFrom = "IntelliJ IDEA";
     private boolean openToOpportunities = true;
@@ -25,11 +23,11 @@ public class SurendraProfile {
 }
 ```
 
-- 🔭 Currently building: **NoteNester**
+- 🔭 Currently building: **Omninet Core**
 - 📚 Strong in: **Data Structures & Algorithms**
 - 💻 Backend enthusiast, working primarily in **IntelliJ IDEA**
 - 👨‍💻 Active on: [LeetCode](https://leetcode.com/u/Surendra_Singh_Chouhan/)
-- 🌱 Learning: **Spring Boot**, **Hibernate**
+- 🌱 Learning: **Spring Boot**, **Spring AI**, **Hibernate**
 - 🤝 Open to: **Backend Projects**, **Hackathons**, and **Open Source**
 - 📫 Reach me at: `surendrasingh231206@acropolis.in`
 
@@ -50,6 +48,15 @@ public class SurendraProfile {
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,c,cpp,maven,mysql,git,github,idea" alt="Tech Stack"/>
 </p>
+
+---
+
+## 💻 Languages Used
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surendra1341&layout=pie&theme=radical&langs_count=8&hide_border=true&title_color=ff6b6b&text_color=ffffff" alt="Top Languages Pie Chart" />
+</div>
+
 
 ---
 
