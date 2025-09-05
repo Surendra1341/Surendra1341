@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surendra Singh Chouhan</h1>
-<h3 align="center">💻 Java Backend Developer | ⚙️ DSA Enthusiast | 🌱 Spring Boot Learner</h3>
+<h3 align="center">💻 Java Backend Developer | 🐍 Python AI/ML Enthusiast | ⚙️ DSA Enthusiast | 🌱 Full Stack Learner</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Gif"/>
 </p>
@@ -11,24 +11,29 @@
 ```java
 public class SurendraProfile {
     private String name = "Surendra Singh Chouhan";
-    private String role = "Java Backend Developer";
-    private String[] currentFocus = {"Spring Boot", "Spring AI", "DSA"};
+    private String role = "Java Backend Developer & Python AI/ML Explorer";
+    private String[] currentFocus = {"Spring Boot", "Spring AI", "FastAPI", "LangChain", "DSA"};
     private String currentProject = "Omninet Core";
-    private String workingFrom = "IntelliJ IDEA";
+    private String[] workingFrom = {"IntelliJ IDEA", "PyCharm", "VS Code"};
     private boolean openToOpportunities = true;
     
     public String[] getPassions() {
-        return new String[]{"Clean Code", "System Design", "Problem Solving"};
+        return new String[]{"Clean Code", "System Design", "AI/ML", "Problem Solving"};
+    }
+    
+    public String[] getNewTechStack() {
+        return new String[]{"Python", "FastAPI", "LangChain", "Ollama"};
     }
 }
 ```
 
 - 🔭 Currently building: **Omninet Core**
 - 📚 Strong in: **Data Structures & Algorithms**
-- 💻 Backend enthusiast, working primarily in **IntelliJ IDEA**
+- 💻 Backend enthusiast, exploring **Java Spring** and **Python FastAPI**
+- 🤖 AI/ML Explorer: **LangChain**, **Ollama**, **Local LLMs**
 - 👨‍💻 Active on: [LeetCode](https://leetcode.com/u/Surendra_Singh_Chouhan/)
-- 🌱 Learning: **Spring Boot**, **Spring AI**, **Hibernate**
-- 🤝 Open to: **Backend Projects**, **Hackathons**, and **Open Source**
+- 🌱 Learning: **Spring Boot**, **Spring AI**, **FastAPI**, **LangChain**, **Ollama**
+- 🤝 Open to: **Backend Projects**, **AI/ML Projects**, **Hackathons**, and **Open Source**
 - 📫 Reach me at: `surendrasingh231206@acropolis.in`
 
 ---
@@ -45,8 +50,17 @@ public class SurendraProfile {
 
 ## 🛠️ Tech Stack 
 
+### Backend & Core
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,c,cpp,maven,mysql,git,github,idea" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,fastapi,c,cpp,maven,mysql,git,github,idea,vscode" alt="Backend Tech Stack"/>
+</p>
+
+### AI/ML & Modern Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
@@ -56,7 +70,6 @@ public class SurendraProfile {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surendra1341&layout=pie&theme=radical&langs_count=8&hide_border=true&title_color=ff6b6b&text_color=ffffff" alt="Top Languages Pie Chart" />
 </div>
-
 
 ---
 
@@ -109,7 +122,7 @@ public class SurendraProfile {
   
   ### 💭 *"First, solve the problem. Then, write the code."* - John Johnson
   
-  **🔥 Consistency • 📈 Growth • 💻 Code**
+  **🔥 Consistency • 📈 Growth • 💻 Code • 🤖 AI**
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=fff&animation=twinkling"/>
   
