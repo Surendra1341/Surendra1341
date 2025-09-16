@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surendra Singh Chouhan</h1>
-<h3 align="center">💻 Java Backend Developer | 🐍 Python AI/ML Enthusiast | ⚙️ DSA Enthusiast | 🌱 Full Stack Learner</h3>
+<h3 align="center">💻 Java Backend Developer |  Python AI/ML Enthusiast | ⚙️ DSA Enthusiast </h3>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Gif"/>
 </p>
@@ -68,7 +68,7 @@ public class SurendraProfile {
 ## 💻 Languages Used
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surendra1341&layout=pie&theme=radical&langs_count=8&hide_border=true&title_color=ff6b6b&text_color=ffffff" alt="Top Languages Pie Chart" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surendra1341&layout=pie&theme=radical&langs_count=8&hide_border=true&title_color=ff6b6b&text_color=ffffff&cache_seconds=1800&hide=Jupyter%20Notebook" alt="Top Languages Pie Chart" />
 </div>
 
 ---
