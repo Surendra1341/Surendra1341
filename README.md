@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Surendra%20Singh%20Chouhan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20%7C%20AI%2FML%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=18&descColor=a78bfa"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Surendra%20Singh%20Chouhan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Research%20Intern%20%40%20CAIR-DRDO%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=16&descColor=a78bfa"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Building+scalable+backends+%F0%9F%9A%80;Exploring+AI%2FML+with+LangChain+%26+Ollama+%F0%9F%A4%96;DSA+problem+solver+%7C+Open+source+contributor+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Building+scalable+backends+%F0%9F%9A%80;" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -33,25 +33,44 @@
 
 ---
 
+## 🏢 Team Zemo
+
+<div align="center">
+
+<a href="https://github.com/Team-Zemo">
+  <img src="https://img.shields.io/badge/Co--founder-Team%20Zemo-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://teamzemo.tech">
+  <img src="https://img.shields.io/badge/Website-teamzemo.tech-a78bfa?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+> 🚀 **Co-founder at [Team Zemo](https://github.com/Team-Zemo)** — building real-world products including the **[CDC Portal](https://cdc.acropolis.teamzemo.tech/)** (Placement Portal @ Acropolis Institute of Technology and Research) and more. Team Zemo is driven by students, built for impact.
+
+</div>
+
+---
+
 ## 🧬 About Me
 
 ```java
 public class SurendraProfile {
 
     private final String name            = "Surendra Singh Chouhan";
-    private final String role            = "Java Backend Developer & Python AI/ML Explorer";
-    private final String[] currentFocus  = {"Spring Boot", "Spring AI", "FastAPI", "LangChain", "DSA"};
+    private final String role            = "Java Backend Developer";
+    private final String internship      = "Research Intern @ CAIR-DRDO | Mentored by Scientist 'F'";
+    private final String[] currentFocus  = {"Spring Boot", "Spring AI", "FastAPI", "DSA", "System Design"};
     private final String currentProject  = "CDC Portal — cdc.acropolis.teamzemo.tech";
-    private final String organization    = "Team Zemo — github.com/Team-Zemo";
+    private final String organization    = "Team Zemo (Co-founder) — github.com/Team-Zemo";
     private final String[] tools         = {"IntelliJ IDEA", "PyCharm", "VS Code", "Docker"};
     private final boolean openToWork     = true;
 
     public String[] getPassions() {
-        return new String[]{"Clean Code", "System Design", "AI/ML", "Problem Solving"};
+        return new String[]{"Clean Code", "System Design", "Problem Solving", "Research"};
     }
 
     public String[] getLearning() {
-        return new String[]{"Spring Boot", "Spring AI", "FastAPI", "LangChain", "Ollama", "Docker"};
+        return new String[]{"Spring Boot", "Spring AI", "FastAPI", "Docker", "System Design"};
     }
 }
 ```
@@ -61,11 +80,11 @@ public class SurendraProfile {
 <td>
 
 - 🔭 **Currently Building:** [CDC Portal](https://cdc.acropolis.teamzemo.tech/) — Placement Portal @ Acropolis
-- 🏢 **Organization:** [Team Zemo](https://github.com/Team-Zemo) — [teamzemo.tech](https://teamzemo.tech)
+- 🔬 **Research Intern** @ [CAIR-DRDO](https://www.drdo.gov.in/labs-and-establishments/centre-artificial-intelligence-robotics-cair) under the mentorship of a Scientist 'F'
+- 🏢 **Co-founder:** [Team Zemo](https://github.com/Team-Zemo) — [teamzemo.tech](https://teamzemo.tech)
 - 📚 **Strong in:** Data Structures & Algorithms
-- 🤖 **AI/ML Explorer:** LangChain · Ollama · Local LLMs
 - 🐳 **DevOps:** Docker — containerizing everything
-- 🤝 **Open to:** Backend · AI/ML Projects · Hackathons · Open Source
+- 🤝 **Open to:** Backend Projects · Hackathons · Open Source · Research
 - 📫 **Reach me:** `surendrasingh231206@acropolis.in`
 
 </td>
@@ -76,24 +95,6 @@ public class SurendraProfile {
 </td>
 </tr>
 </table>
-
----
-
-## 🏢 Organization
-
-<div align="center">
-
-<a href="https://github.com/Team-Zemo">
-  <img src="https://img.shields.io/badge/Part%20of-Team%20Zemo-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://teamzemo.tech">
-  <img src="https://img.shields.io/badge/Website-teamzemo.tech-a78bfa?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-> 🚀 Actively contributing to **[Team Zemo](https://github.com/Team-Zemo)** — building real-world products including the **[CDC Portal](https://cdc.acropolis.teamzemo.tech/)** for Acropolis Institute of Technology and Research.
-
-</div>
 
 ---
 
@@ -109,10 +110,8 @@ public class SurendraProfile {
   <img src="https://skillicons.dev/icons?i=docker,linux,bash" />
 </p>
 
-### 🤖 AI/ML & Modern Tools
+### ⚡ AI & Modern Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -203,7 +202,7 @@ public class SurendraProfile {
 
 ### 💭 *"First, solve the problem. Then, write the code."* — John Johnson
 
-**🔥 Consistency &nbsp;•&nbsp; 📈 Growth &nbsp;•&nbsp; 💻 Code &nbsp;•&nbsp; 🤖 AI &nbsp;•&nbsp; 🐳 Docker**
+**🔥 Consistency &nbsp;•&nbsp; 📈 Growth &nbsp;•&nbsp; 💻 Code &nbsp;•&nbsp; 🔬 Research &nbsp;•&nbsp; 🐳 Docker**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=Happy%20Coding!&fontSize=28&fontColor=a78bfa&animation=twinkling"/>
 
