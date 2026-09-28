@@ -309,37 +309,8 @@ That's also where my **Linux kernel upstream contributions** come from.
 
 ---
 
-# 🏆 Achievements
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Surendra1341&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
-
-</div>
-
----
-
-# 🔗 GitHub
-
-<div align="center">
-
-<a href="https://github.com/Surendra1341">
-
-<img src="https://img.shields.io/badge/GitHub-Surendra1341-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-</a>
-
- 
-
-<a href="https://github.com/search?q=repo%3Atorvalds%2Flinux+author%3ASurendra1341&type=commits">
-
-<img src="https://img.shields.io/badge/Linux%20Kernel-11%2B%20Upstream%20Contributions-111827?style=for-the-badge&logo=linux&logoColor=white" />
-
-</a>
-
-</div>
-
----
 
 # 🌐 Connect
 
